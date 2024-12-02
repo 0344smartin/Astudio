@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioListViews</string>
+    <string name="dish">Selecciona un plato</string>
+    <string name="ingredient">Selecciona un ingrediente</string>
+</resources>

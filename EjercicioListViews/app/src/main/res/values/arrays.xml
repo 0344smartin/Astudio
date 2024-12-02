@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comidas">
+        <item>Hamburguesa</item>
+        <item>Ensalada</item>
+        <item>Paella</item>
+        <item>Croquetas</item>
+        <item>Tortilla</item>
+        <item>Pan</item>
+    </string-array>
+    <string-array name="ingredientes">
+        <item>Queso</item>
+        <item>Mayonesa</item>
+        <item>Pimientos</item>
+        <item>Chorizo</item>
+        <item>Ajo</item>
+        <item>Tomate</item>
+        <item>Chocolate</item>
+    </string-array>
+</resources>

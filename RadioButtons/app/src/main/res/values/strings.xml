@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no">No</string>
+    <string name="yes">Sí</string>
+    <string name="never">Ni de lejos</string>
+    <string name="Title">¿Te gusta esta clase?</string>
+</resources>

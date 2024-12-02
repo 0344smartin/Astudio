@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">audioPlayer</string>
+    <string name="l_play">Play</string>
+    <string name="l_continue">Continue</string>
+    <string name="l_stop">Stop</string>
+    <string name="l_pause">Pause</string>
+    <string name="enable_track_loop">Enable track loop</string>
+    <string name="disable_track_loop">Disable track loop</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTTPApplication</string>
+    <string name="id_user">ID_user</string>
+    <string name="buscar_usuario">Buscar Usuario</string>
+</resources>

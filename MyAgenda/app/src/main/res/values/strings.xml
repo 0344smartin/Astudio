@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAgenda</string>
+    <string name="help">Long press to remove</string>
+</resources>
